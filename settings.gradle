@@ -1,1 +1,1 @@
-include ':app', ':rxeasyhttp', ':baselibrary'
+include ':app', ':rxeasyhttp', ':baselibrary', ':GlideImageView'

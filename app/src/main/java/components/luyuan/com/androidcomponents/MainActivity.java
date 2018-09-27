@@ -2,7 +2,11 @@ package components.luyuan.com.androidcomponents;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.ImageView;
 
+import com.sunfusheng.GlideImageLoader;
+import com.sunfusheng.GlideImageView;
+import com.sunfusheng.progress.GlideApp;
 import com.zhouyou.http.EasyHttp;
 import com.zhouyou.http.callback.SimpleCallBack;
 import com.zhouyou.http.exception.ApiException;
@@ -28,5 +32,6 @@ public class MainActivity extends AppCompatActivity {
 
                     }
                 });
+
     }
 }
