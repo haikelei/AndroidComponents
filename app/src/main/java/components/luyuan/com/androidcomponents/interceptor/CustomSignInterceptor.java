@@ -16,10 +16,6 @@
 
 package components.luyuan.com.androidcomponents.interceptor;
 
-import com.zhouyou.http.demo.constant.AppConstant;
-import com.zhouyou.http.demo.constant.ComParamContact;
-import com.zhouyou.http.demo.token.TokenManager;
-import com.zhouyou.http.demo.utils.MD5;
 import com.zhouyou.http.interceptor.BaseDynamicInterceptor;
 import com.zhouyou.http.utils.HttpLog;
 
@@ -27,6 +23,11 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.util.Map;
 import java.util.TreeMap;
+
+import components.luyuan.com.androidcomponents.constant.AppConstant;
+import components.luyuan.com.androidcomponents.constant.ComParamContact;
+import components.luyuan.com.androidcomponents.token.TokenManager;
+import components.luyuan.com.androidcomponents.utils.MD5;
 
 import static com.zhouyou.http.utils.HttpUtil.UTF8;
 

@@ -1,9 +1,8 @@
 package components.luyuan.com.androidcomponents.model;
 
 
-import com.zhouyou.http.demo.MyApplication;
-import com.zhouyou.http.demo.utils.ACache;
-
+import components.luyuan.com.androidcomponents.MyApplication;
+import components.luyuan.com.androidcomponents.utils.ACache;
 
 public class LoginCache {
     private final static String fileName = "logincache";
