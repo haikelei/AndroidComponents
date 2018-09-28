@@ -3,10 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidComponents.iml" filepath="$PROJECT_DIR$/AndroidComponents.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GlideImageView/GlideImageView.iml" filepath="$PROJECT_DIR$/GlideImageView/GlideImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryImage/GlideImageView.iml" filepath="$PROJECT_DIR$/libraryImage/GlideImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryAdapter/adapterLibrary.iml" filepath="$PROJECT_DIR$/libraryAdapter/adapterLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baselibrary/baselibrary.iml" filepath="$PROJECT_DIR$/baselibrary/baselibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rxeasyhttp/rxeasyhttp.iml" filepath="$PROJECT_DIR$/rxeasyhttp/rxeasyhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryBase/baselibrary.iml" filepath="$PROJECT_DIR$/libraryBase/baselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryAdapter/libraryAdapter.iml" filepath="$PROJECT_DIR$/libraryAdapter/libraryAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryBase/libraryBase.iml" filepath="$PROJECT_DIR$/libraryBase/libraryBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryImage/libraryImage.iml" filepath="$PROJECT_DIR$/libraryImage/libraryImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryNet/libraryNet.iml" filepath="$PROJECT_DIR$/libraryNet/libraryNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryVideo/videoLibrary.iml" filepath="$PROJECT_DIR$/libraryVideo/videoLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryNet/rxeasyhttp.iml" filepath="$PROJECT_DIR$/libraryNet/rxeasyhttp.iml" />
     </modules>
   </component>
 </project>

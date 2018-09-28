@@ -1,5 +1,6 @@
 package components.luyuan.com.androidcomponents;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +9,7 @@ import java.util.ArrayList;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import components.luyuan.com.androidcomponents.ui.activity.DetailVideoActivity;
 import components.luyuan.com.androidcomponents.ui.bottomnavigation.BottomNavigationView;
 import components.luyuan.com.androidcomponents.ui.fragment.AddFragment;
 import components.luyuan.com.androidcomponents.ui.fragment.CircleFragment;
@@ -43,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
 //                });
         initView();
         initListener();
+        startActivity(new Intent(this, DetailVideoActivity.class));
     }
 
     private void initListener() {
