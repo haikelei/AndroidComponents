@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 //                });
         initView();
         initListener();
-        startActivity(new Intent(this, DetailVideoActivity.class));
+//        startActivity(new Intent(this, DetailVideoActivity.class));
     }
 
     private void initListener() {
