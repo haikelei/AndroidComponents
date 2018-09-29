@@ -11,8 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/libraryBase/libraryBase.iml" filepath="$PROJECT_DIR$/libraryBase/libraryBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraryImage/libraryImage.iml" filepath="$PROJECT_DIR$/libraryImage/libraryImage.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraryNet/libraryNet.iml" filepath="$PROJECT_DIR$/libraryNet/libraryNet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libraryVideo/videoLibrary.iml" filepath="$PROJECT_DIR$/libraryVideo/videoLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryVideo/libraryVideo.iml" filepath="$PROJECT_DIR$/libraryVideo/libraryVideo.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraryNet/rxeasyhttp.iml" filepath="$PROJECT_DIR$/libraryNet/rxeasyhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryVideo/videoLibrary.iml" filepath="$PROJECT_DIR$/libraryVideo/videoLibrary.iml" />
     </modules>
   </component>
 </project>
